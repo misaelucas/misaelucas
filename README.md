@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [misaa.dev](misaa.dev)
+- 👨‍💻 All of my projects are available at <a href="https://misaa.dev" target="blank">misaa.dev</a>
 
 - 📫 How to reach me **misaelucas@gmail.com**
 
